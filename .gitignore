@@ -1,0 +1,23 @@
+# Ignorar el entorno virtual
+venv/
+
+# Ignorar el dataset
+dataset/
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Configuración de editores
+.vscode/
+.idea/
